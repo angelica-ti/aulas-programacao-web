@@ -1,0 +1,14 @@
+.negrito{
+    font-weight: bold;
+}
+
+hr {
+    color: #094819;
+}
+p {
+    color: greenyellow;
+    margin-left: 20px;
+}
+body {
+    background-image: url("../imgs/panda.jpg");
+}
